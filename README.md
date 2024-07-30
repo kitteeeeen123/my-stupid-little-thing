@@ -6,7 +6,7 @@ replit link: https://replit.com/@kaiolsenstu/the-bot#main.py
 changelog
 -
 ver 0.08 pre-relese
-
+-
 added unfinished secrets
 
 has some unused code
@@ -15,9 +15,8 @@ added ipddr tracking
 
 added hello at the start of the program
 
--
 ver 0.07 pre-relese
-
+-
 added changelog
 
 patched "yes or no"
