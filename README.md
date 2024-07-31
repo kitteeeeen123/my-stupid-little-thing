@@ -5,7 +5,7 @@ fully updated replit link: https://replit.com/@kaiolsenstu/the-bot#main.py
 
 changelog
 -
-ver 0.08 pre-relese
+ver 0.08 pre-release
 -
 - added unfinished secrets
 
@@ -15,7 +15,7 @@ ver 0.08 pre-relese
 
 - added hello at the start of the program
 
-ver 0.07 pre-relese
+ver 0.07 pre-release
 -
 - added changelog
 
