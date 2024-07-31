@@ -7,20 +7,20 @@ changelog
 -
 ver 0.08 pre-relese
 -
-added unfinished secrets
+- added unfinished secrets
 
-has some unused code
+- has some unused code
 
-added ipddr tracking
+- added ipddr tracking
 
-added hello at the start of the program
+- added hello at the start of the program
 
 ver 0.07 pre-relese
 -
-added changelog
+- added changelog
 
-patched "yes or no"
+- patched "yes or no"
 
-added ending 7
+- added ending 7
 
-removed "test 14"
+- removed "test 14"
