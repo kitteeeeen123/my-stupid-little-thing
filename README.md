@@ -1,5 +1,7 @@
 what
-i was bored so i did this. WIP open alpha
+i was bored so i did this. WIP open alpha.
+
+any ideas of addons would be greatly appreciated.
 
 fully updated replit link: https://replit.com/@kaiolsenstu/the-bot#main.py
 
