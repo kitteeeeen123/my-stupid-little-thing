@@ -1,4 +1,6 @@
-what is what? what is my first project i did in python. i wanted to do it because it was all i knew, probaly because im 11. so... yeah. 
+what is what?
+-
+what is my first project i did in python. i wanted to do it because it was all i knew, probaly because im 11. so... yeah. 
 it was suprisingly easy to make and there where alot of bugs. my experience so far was fairly good. 8/10 my fingers hurt a lot.
 
 i was bored so i did this. WIP open alpha.
