@@ -5,6 +5,16 @@ fully updated replit link: https://replit.com/@kaiolsenstu/the-bot#main.py
 
 changelog
 -
+ver 0.09 pre release
+-
+- fixed timer for ending zero
+
+- patched the game not loading
+
+- added comments in code
+
+- fixed a ok or nokay bug
+
 ver 0.08 pre-release
 -
 - added unfinished secrets
