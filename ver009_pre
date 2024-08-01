@@ -1,0 +1,200 @@
+from replit import db
+import time
+import os
+import socket
+
+# just in case IP adress: 192.168.1.80
+
+t = 15 #timer for one of the endings
+hostname = socket.gethostname()
+IPAddr = socket.gethostbyname(hostname)
+wut = ("so, yes")
+db["pla1"] = "false"
+
+
+print(IPAddr)
+print("hello")
+time.sleep(1)
+username = input("what is your name?: ")
+
+# username and ip address check
+
+if username == ("kitteeeeen123"):
+  print("dev area")
+  time.sleep(1)
+  print("checking connection")
+  # checks ip address
+  if IPAddr == ("172.31.196.12"):
+    print("connection established")
+    time.sleep(1)
+    print("uhh. hi this is good")
+    time.sleep(1)
+    print("i dont know what to do with this place yet")
+    time.sleep(1)
+    print("so yes")
+    time.sleep(1)
+    print("bye")
+    time.sleep(20)
+    print("1287")
+    exit()
+  else:
+    print("connection failed")
+    time.sleep(1)
+    print("shutting down")
+    exit()
+    
+time.sleep(1)
+print("hello " + username)
+time.sleep(1)
+if input("can you guess the code? ") == "no":
+  print("well than")
+  time.sleep(1)
+  print("your stubborness got through somehow, " + username)
+  time.sleep(1)
+  print("if that is your real name")
+  time.sleep(1)
+  print("just say ok or nokay")
+  b = input()
+  if b == "ok":
+
+    # ending 0
+    
+    time.sleep(1)
+    print("good job")
+    time.sleep(1)
+    print("wait what is that")
+    time.sleep(1)
+    print("WAIT. NO")
+    time.sleep(1)
+    print("THEY FOUND ME")
+    time.sleep(1)
+    print(t)
+    print(username + " !?")
+    time.sleep(1)
+    print("JUST PRESS CTRL+C")
+    # timer function
+    try:
+      while t > 0:
+       t -= 1
+       time.sleep(1)
+       print(t)
+      if (t) == 0:
+        print("you have been killed")
+        time.sleep(1)
+        print("ending 1: you died")
+        exit()
+    except KeyboardInterrupt:
+      time.sleep(4)
+      print(" woah i must've had the experement copied")
+      time.sleep(1)
+      print("i wonder if it has any side eff-f-ects")
+      time.sleep(5)
+      print("dGhpcyB3YXMgbmV2ZXIgbWVudCB0byBiZQ==")
+      time.sleep(1)
+      print("what was that?")
+      time.sleep(2)
+      print("aGUga25vd3MgdG9vIG11Y2g=")
+      time.sleep(0.5)
+      print("what -Si HAsppE%n-anG")
+      time.sleep(4)
+      print("aSBoYXZlIHRvIGRlbGV0ZSBpdA==")
+      time.sleep(2)
+      print("Z29vZGJ5ZQ==")
+      time.sleep(1)
+      print("aUGhhhhhhHHhhhHHhHhhhHhHh")
+      time.sleep(5)
+      print(".")
+      time.sleep(1)
+      print("..")
+      time.sleep(1)
+      print("...")
+      time.sleep(3)
+      print("wake up")
+      time.sleep(3)
+      print("ending 0: the true ending")
+      time.sleep(1)
+      print("THANK YOU FOR LOADING")
+      time.sleep(1)
+      print("creds: Me!")
+      exit()
+  if b == "nokay":
+    # ending 2
+    time.sleep(1)
+    print("well you arnt that evil")
+    time.sleep(1)
+    print("you can have a free ps5")
+    time.sleep(1)
+    print("oh those are obsolete now, are they " + username)
+    time.sleep(1)
+    print("ending 2: nokay")
+    exit()
+  else:
+    # this is what i have to do
+    time.sleep(1)
+    print("why do you guys do this to me?!")
+    time.sleep(1)
+    print("every time there is a yes or no question")
+    time.sleep(1)
+    print("can you guys just play the game?")
+    time.sleep(3)
+    print("no ending")
+    exit()
+else:
+  print("well looks like you could not guess the code")
+  time.sleep(1)
+  print("you could've got a ps5")
+  time.sleep(1)
+  print("you have one more chance")
+  time.sleep(2)
+  print("yes or no")
+  q = input()
+  if q == "yes":
+    time.sleep(2)
+    print("https://docs.google.com/document/d/1byuqxh-hRJ8rjwxsjmIrH4Q52zhwK4ZS-k6807VwcCA/edit")
+    time.sleep(3)
+    print("ending 5: LORE!!")
+    x = input()
+    if x == "1287":
+      # my attempt at cacheing things
+      if (db["pla1"]) == "true":
+        time.sleep(1)
+        print("you thought you could use that secret a second time?")
+        time.sleep(1)
+        print("well you cant")
+        
+      time.sleep(1)
+      print("uhh")
+      time.sleep(1)
+      print("i also dont know what to do with this")
+      time.sleep(1)
+      db["pla1"] = "true"
+      print("ending 4: how are you here???")
+      exit()
+  if q == "no":
+    time.sleep(1)
+    print("no you say?")
+    time.sleep(1)
+    print("hmm")
+    time.sleep(1)
+    print("well then")
+    time.sleep(3)
+    print("just wait here for 2 days")
+    time.sleep(3)
+    print("btw")
+    print("your hostname is " + hostname)
+    time.sleep(1)
+    print("and IP v4 address is " + IPAddr)
+    time.sleep(86400)
+    print("wow you did it ?!")
+    time.sleep(1)
+    print("i didnt think you would get here")
+    time.sleep(3)
+    print("ending 3: you have no life")
+    exit()
+  else:
+    # if you wright anything but yes or no
+    time.sleep(1)
+    print("wut")
+    time.sleep(2)
+    print("ending 6: wut")
+    exit()
