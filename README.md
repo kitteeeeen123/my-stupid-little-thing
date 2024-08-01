@@ -9,6 +9,8 @@ any ideas of addons would be greatly appreciated.
 
 fully updated replit link: https://replit.com/@kaiolsenstu/the-bot#main.py
 
+discord link: https://discord.com/channels/@me/1231016153401262092
+
 changelog
 -
 ver 0.09 pre release alpha
